@@ -1,0 +1,14 @@
+[
+  {
+    "estudiante": "Gustavo Cerati",
+    "estudia": true
+  },
+  {
+    "estudiante": "Marley",
+    "estudia": false
+  },
+  {
+    "estudiante": "El Diego",
+    "estudia": false
+  }
+]
