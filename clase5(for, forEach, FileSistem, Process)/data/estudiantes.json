@@ -1,0 +1,38 @@
+[
+    {
+        "estudiante": "Gustavo Cerati",
+        "estudia": true
+    },
+    {
+        "estudiante": "Marley",
+        "estudia": false
+    },
+    {
+        "estudiante": "El Diego",
+        "estudia": false
+    },
+    {
+        "estudiante": "Guido",
+        "estudia": false
+    },
+    {
+        "estudiante": "Lady Gaga",
+        "estudia": false
+    },
+    {
+        "estudiante": "Homero",
+        "estudia": false
+    },
+    {
+        "estudiante": "Bart",
+        "estudia": false
+    },
+    {
+        "estudiante": "Marge",
+        "estudia": false
+    },
+    {
+        "estudiante": "Lisa",
+        "estudia": false
+    }
+]
